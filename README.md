@@ -16,5 +16,5 @@ Built a predictive model to understand factors that influence buying behavior
 - Prepared the data by doing EDA and carried out basic feature engineering.
 - Created a classification model to predict customer booking. 
 - Identified relevant features which might have an influence in customer booking behaviour.  
-- Prepared a PowerPoint representation to highlight investigation results.
+- Prepared a PowerPoint presentation to highlight investigation results.
 
